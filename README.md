@@ -31,3 +31,11 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
+## Contributors
+[Shivang Chaudhary](https://www.linkedin.com/in/shivang-chaudhary-2235831b5/)
+
+[Aryan Kaushik](https://www.linkedin.com/in/aryankaushikdev/)
+
+[Mmesoma Nwachukwu](https://www.linkedin.com/in/mmesoma-nwachukwu-3a3862263/)
+
+[Tobi Salawu](https://www.linkedin.com/in/oluwatobi-s/)
