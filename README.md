@@ -1,4 +1,4 @@
-# CareLink - Real Time Intent Translation For Accessibility
+# CareLink - Real Time Intent Translation For Accessibility [AI Engine Hackathon - Dawn Capital x memories.ai]
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
